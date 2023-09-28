@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.rahulvk.com/wp-content/uploads/2023/09/rahul-dp.jpg"  />
-
 ###
 
 <div align="left">
