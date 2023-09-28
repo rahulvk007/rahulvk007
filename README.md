@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul Vijayakumar and I'm a Full Stack Developer and ML Developer, from Kerala, India</h2>
+<h2 align="left">Hi 👋! My name is Rahul Vijayakumar and I'm a Full Stack Developernfrom India</h2>
 
 ###
 
