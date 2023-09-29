@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Rahul Vijayakumar and I'm a Full Stack Developer from India</h2>
 
 ###
+![](https://komarev.com/ghpvc/?username=rahulvk007)
+###
 
 <div align="center">
   <img src="https://github-readme-stats-rahulvk.vercel.app/api?username=rahulvk007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
