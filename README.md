@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Rahul Vijayakumar and I'm a Full Stack Developer from India</h2>
 
 ###
-![](https://view-counter-api.rahulvk.com/github/rahulvk007)
 ###
 
 <div align="center">
